@@ -1,0 +1,1 @@
+module.exports = { input: "types/api", baseURL: "https://swapi.dev/api" }
